@@ -1,4 +1,4 @@
-# CoinKey - Smart Wallet
+# CoinKey - Smart Wallet 👛
 
 CoinKey is a revolutionary Coinbase smart wallet that empowers you to take control of your cryptocurrencies in a secure and user-friendly web3 environment. Built on the cutting-edge of blockchain technology, CoinKey goes beyond traditional wallets, offering a comprehensive suite of features designed for the modern crypto enthusiast.
 
